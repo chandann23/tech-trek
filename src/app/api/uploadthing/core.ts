@@ -71,7 +71,7 @@ const onUploadComplete = async ({
     const pagesAmt = pageLevelDocs.length;
 
     // vectorize and index entire document
-    const pineconeIndex = pinecone.Index('byte-busters');
+    const pineconeIndex = pinecone.Index('tech-trek');
       const embeddings = new OpenAIEmbeddings({
         openAIApiKey: process.env.OPENAI_API_KEY,
       });
