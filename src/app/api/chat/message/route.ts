@@ -36,7 +36,7 @@ export async function POST(req: NextRequest) {
       openAIApiKey: process.env.OPENAI_API_KEY,
     });
 
-    const pineconeIndex = pinecone.Index("byte-busters");
+    const pineconeIndex = pinecone.Index("tech-trek");
 
     const vectorStore = await PineconeStore.fromExistingIndex(embeddings, {
       pineconeIndex,
