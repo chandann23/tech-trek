@@ -16,6 +16,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-t3-a
 Watch the demo [here](#).
 
 ## Architecture
+![image-Architecture](https://github.com/chandann23/tech-trek/assets/139786048/e2249cf2-b78f-460d-92d1-68239805fda9)
 
 
 ## Getting Started
