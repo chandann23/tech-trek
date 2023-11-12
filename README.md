@@ -10,8 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-t3-a
 - [Supabase - PostgreSQL](https://supabase.com/)
 - [Pinecone - For vector embeddings](https://www.pinecone.io/)
 - [OpenAI APIs](https://openai.com/blog/openai-api)
-
-- 
+- [Shadcn UI Library](https://ui.shadcn.com/)
 
 ## Demo
 
