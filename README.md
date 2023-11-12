@@ -13,7 +13,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-t3-a
 
 ## Demo
 
-Watch the demo [here](#).
+[![Demo Video](![image](https://github.com/chandann23/tech-trek/assets/139786048/5c9712ea-1a2c-4693-8e13-5b43421abf4d)
+)](https://drive.google.com/file/d/1mk_aGQknwhEIbG390OQHX_OmlD_kSKeJ/view?usp=drivesdk)
 
 ## Architecture
 ![image-Architecture](https://github.com/chandann23/tech-trek/assets/139786048/e2249cf2-b78f-460d-92d1-68239805fda9)
