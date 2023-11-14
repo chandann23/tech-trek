@@ -10,12 +10,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-t3-a
 - [Supabase - PostgreSQL](https://supabase.com/)
 - [Pinecone - For vector embeddings](https://www.pinecone.io/)
 - [OpenAI APIs](https://openai.com/blog/openai-api)
+- [Shadcn UI Library](https://ui.shadcn.com/)
 
 ## Demo
 
-Watch the demo [here](#).
+Watch the demo [here](https://drive.google.com/file/d/1mk_aGQknwhEIbG390OQHX_OmlD_kSKeJ/view?usp=drivesdk).
 
 ## Architecture
+![image-Architecture](https://github.com/chandann23/tech-trek/assets/139786048/e2249cf2-b78f-460d-92d1-68239805fda9)
+
+## EXAMPLE
+![image](https://github.com/chandann23/tech-trek/assets/139786048/bd9c0f63-07a8-495e-84d7-f8c9ac9ba906)
 
 
 ## Getting Started
