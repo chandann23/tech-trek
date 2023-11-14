@@ -71,7 +71,7 @@ const onUploadComplete = async ({
     const pagesAmt = pageLevelDocs.length;
 
     // vectorize and index entire document
-    const pineconeIndex = pinecone.Index('tech-trek');
+    const pineconeIndex = pinecone.Index('byte-busters');
       const embeddings = new OpenAIEmbeddings({
         openAIApiKey: process.env.OPENAI_API_KEY,
       });
@@ -110,4 +110,4 @@ export const ourFileRouter = {
     .onUploadComplete(onUploadComplete),
 } satisfies FileRouter;
 
-export type OurFileRouter = typeof ourFileRouter;
+export type OurFileRouter = typeof ourFileRouter
